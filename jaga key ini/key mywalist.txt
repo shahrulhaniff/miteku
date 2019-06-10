@@ -10,7 +10,7 @@ pass : 040471
 
 zipalign -v 4 app-release-unsigned.apk jetto.apk --> kena copy path ( c/.../zipalign -v 4 .... )
 contoh full :
-(4) ( C:/Users/shahrul/AppData/Local/Android/sdk/build-tools/26.0.2/zipalign -v 4 app-release-unsigned.apk mywalist.apk )
+(4) ( C:/Users/shahrul/AppData/Local/Android/sdk/build-tools/26.0.2/zipalign -v 4 app-release-unsigned.apk miteku.apk )
 
 
 __________________________________________________________________________________________________________________________________________
